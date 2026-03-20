@@ -29,7 +29,7 @@ jobs:
           token: ${{ secrets.GITHUB_TOKEN }}
 
           # Options
-          user: AlienegraGeek
+          user: StormSpirit001
           template: classic
 
           config_display: large
