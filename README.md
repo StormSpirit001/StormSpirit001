@@ -1,4 +1,4 @@
-<h2> Hi, I'm StormSpirit001! <img src="https://media.giphy.com/media/Rnb5VoZiIyIM0/giphy.gif" width="80"></h2>
+<h2> Hi, I'm StormSpirit001! <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWYxZGl2M3QyanpicG04NXI5czZqODkzN3dlNHJoNjBodWE2eDNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X3XOVqbMyZgHLD0XL9/giphy.gif" width="80"></h2>
 
 <img alt="metrics" src="github-metrics.svg">
 
