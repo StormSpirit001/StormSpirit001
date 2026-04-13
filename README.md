@@ -4,7 +4,7 @@
 
 ![github contribution grid snake animation](https://raw.githubusercontent.com/StormSpirit001/StormSpirit001/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
-[//]: # (<img src="https://media.giphy.com/media/SV0LuYdSMmKEklpZKs/giphy.gif" width="80"> )
+[//]: # (<img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWYxZGl2M3QyanpicG04NXI5czZqODkzN3dlNHJoNjBodWE2eDNyZCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/X3XOVqbMyZgHLD0XL9/giphy.gif" width="80"> )
 
 [//]: # (![StormSpirit001 Github Stats]&#40;https://github-readme-stats.vercel.app/api?username=StormSpirit001&count_private=true&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=0D1117&border_color=0d1117&show_owner=true&rank_icon=github&#41;)
 
